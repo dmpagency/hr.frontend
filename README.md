@@ -1,9 +1,7 @@
 # Project Name: DMP Frontend Testing Project
 
 ## Objective:
-Your task is to create a responsive web page based on the design provided in Figma:  
-[Design Link](https://www.figma.com/design/TumeHzNdMGPfl9r1ImHLSv/dmpagency-frontend-technical-task?node-id=0-1&t=cMwsNzPqd3PaHLzG-1).  
-Use **Bootstrap 5**, **Sass**, and the **BEM methodology**.
+Your task is to create a responsive web page based on the design provided in Figma: [Design Link](https://www.figma.com/design/TumeHzNdMGPfl9r1ImHLSv/dmpagency-frontend-technical-task?node-id=0-1&t=cMwsNzPqd3PaHLzG-1).  
 
 ---
 

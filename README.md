@@ -8,15 +8,13 @@ Your task is to create a responsive web page based on the design provided in Fig
 ## Requirements:
 
 ### HTML and CSS:
-1. **Structure**:  
+1. **Structure**:
    The page must follow the structure outlined in the design.
-2. **BEM Methodology**:  
-   Use the BEM naming convention for classes. Refer to [BEM Guide](https://www.vzhurudolu.cz/prirucka/bem).
-3. **CSS Rules**:  
-   - Follow a **mobile-first approach**.  
-   - Avoid "magic constants" (always use variables or appropriate units, such as `em` or `rem`).  
+3. **CSS Rules**:
+   - Follow a **mobile-first approach**.
+   - Avoid "magic constants" (always use variables or appropriate units, such as `em` or `rem`).
    - Each component should be self-contained and independent of its parent.
-
+   - Use css variables
 ---
 
 ### Responsiveness:
@@ -25,11 +23,12 @@ The page must be fully responsive and adapt seamlessly to mobile devices, tablet
 ---
 
 ### Technologies:
-- **Bootstrap 5**.
-- **Sass** (use variables for colors, sizes, etc.).
 - **Figma** (for reading and referencing the design).
 
 ---
 
+### Nice to have
+- **BEM Methodology**: Use the BEM naming convention for classes. Refer to [BEM Guide](https://www.vzhurudolu.cz/prirucka/bem).
+
 ## Submission:
-Upon completion, package your output into a `.zip` file and send it via email, or upload it to your own **Bitbucket repository** and provide us with the link.
+Upon completion, package your output into a `.zip` file and send it via email, or upload it to your own **Github repository** and provide us with the link.
